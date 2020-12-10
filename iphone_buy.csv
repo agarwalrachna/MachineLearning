@@ -1,0 +1,10 @@
+Age,Gender,Salary,location,Label
+25,M,50000,Delhi,NO
+30,M,70000,Delhi,NO
+25,M,90000,Delhi,YES
+45,F,85000,Mumbai,YES
+30,F,40000,Pune,NO
+28,M,90000,Lucknow,YES
+31,F,65000,Delhi,NO
+30,M,86000,Delhi,YES
+36,M,60000,Mumbai,NO
